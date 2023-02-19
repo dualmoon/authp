@@ -3,7 +3,7 @@ module github.com/authp/authp
 go 1.18
 
 require (
-	github.com/caddyserver/caddy/v2 v2.6.2
+	github.com/caddyserver/caddy/v2 v2.6.3
 	github.com/greenpau/caddy-security v1.1.18
 	github.com/greenpau/caddy-security-secrets-aws-secrets-manager v1.0.1
 	github.com/greenpau/caddy-trace v1.1.10
